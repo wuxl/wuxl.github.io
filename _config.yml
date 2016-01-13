@@ -1,0 +1,10 @@
+title:            Devo Notes
+description:      Learn and Share.
+url:              http://wuxl.github.io
+
+links:
+  - name:         Notes
+    url:          /
+  - name:         GitHub
+    url:          http://github.com/wuxl
+    external:     true
