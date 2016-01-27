@@ -30,7 +30,7 @@ class MyClass {    // Compliant
   }
 
 }
-{%}
+{% endhighlight %}
 
 ### Throwable and Error should not be caught 
 
