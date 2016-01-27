@@ -16,7 +16,7 @@ According to the Java Language Specification, there is a contract between `equal
 
 In order to comply with this contract, those methods should be either both inherited, or both overridden [1].
 
-```
+{% highlight java %}
 class MyClass {    // Compliant
 
   @Override
@@ -30,7 +30,7 @@ class MyClass {    // Compliant
   }
 
 }
-```
+{% endhighlight %}
 
 [1]: <http://cwe.mitre.org/data/definitions/581.html>
 
