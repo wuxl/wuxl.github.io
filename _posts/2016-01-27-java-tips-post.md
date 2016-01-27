@@ -30,7 +30,7 @@ class MyClass {    // Compliant
   }
 
 }
-{% endhighlight %}
+{%}
 
 [1]: <http://cwe.mitre.org/data/definitions/581.html>
 
