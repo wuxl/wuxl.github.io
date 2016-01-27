@@ -4,8 +4,6 @@ title: Java Tips
 date: 2016-01-27 16:03:00
 ---
 
-# Java Tips
-
 The issue which is Violation in Java language.
 
 ### `equals(Object obj)` and `hashCode()` should be overridden in pairs
