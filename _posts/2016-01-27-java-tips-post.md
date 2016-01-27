@@ -32,6 +32,14 @@ class MyClass {    // Compliant
 }
 {%}
 
+### Throwable and Error should not be caught 
+
+Throwable is the superclass of all errors and exceptions in Java.
+
+Error is the superclass of all errors, which are not meant to be caught by applications.
+
+Catching either Throwable or Error will also catch OutOfMemoryError and InternalError, from which an application should not attempt to recover.
+
 [1]: <http://cwe.mitre.org/data/definitions/581.html>
 
 
